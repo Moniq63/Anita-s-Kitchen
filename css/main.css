@@ -1,3 +1,5 @@
+
+
 h1{
   text-align: center;
   color: #0b0b9b;
@@ -8,21 +10,16 @@ p {
 }
 img {
   float: left;
+  display: none;
 }
 body {
-  background-image: url("../img/abstractAutumn.jpg");
-}
-.sidebar {
-  width: 30%;
-  float: right;
-  background-color: red;
+  background-color: green;
 }
 .column {
   width: 350;
   float: left;
 }
-.rowy {
-  background-color: blue;
+.jumbotron {
+  margin-bottom: 
+
 }
-
-
