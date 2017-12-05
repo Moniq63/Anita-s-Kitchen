@@ -6,10 +6,6 @@ h1{
 p {
   color: rgb(143, 2, 2);
 }
-img {
-  float: left;
-  display: none;
-}
 body {
   background-color: green;
 }
@@ -36,4 +32,7 @@ body {
 .active {
   background-color: wheat;
   color: orangered;
+}
+.row {
+  border-color: red;
 }
