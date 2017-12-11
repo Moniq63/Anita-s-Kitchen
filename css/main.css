@@ -50,3 +50,33 @@ body {
   color: wheat;
   border: 2px solid yellow;
 }
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+.div {
+  width: 30px;
+  border: 25px solid purple;
+  padding: 25px;
+  margin: 25px;
+}
+.card {
+  background-color: rgb(1, 26, 1);
+}
+h2{
+  text-align: center;
+  color: lightgoldenrodyellow;
+  font-weight: bolder;
+  font-family: garamond;
+}
+.forEach {
+  background-color: green;
+  text-decoration-color: red; 
+}

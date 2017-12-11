@@ -12,7 +12,7 @@ This is a website about my favourite things. This is meant to describe all the t
 ## Known Bugs
 unknown bugs
 ## Technologies Used
-HTML, CSS, Bootstrap
+HTML, CSS, Bootstrap, JavaScript
 ## Support and contact details
 email me incase of any query
 ### License
