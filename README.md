@@ -4,11 +4,11 @@
 ## Description
 This is a website about my favourite things. This is meant to describe all the things that I like.
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+* Download the relevant applications
+* Save the relevant application
+* Make copies of the program
+* Application launch
+* Revisit specifications
 ## Known Bugs
 unknown bugs
 ## Technologies Used
